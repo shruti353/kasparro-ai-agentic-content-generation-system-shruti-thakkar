@@ -46,7 +46,7 @@ Below are the PNG diagrams representing the system architecture, agent orchestra
 ![System Architecture](orchestration.png)
 
 ### 5.3 Single-Responsibility Agent View
-![System Architecture](single_responsibility)
+![System Architecture](single_responsibility.png)
 
 ### 5.4 Logic Block Interaction Diagram
 ![System Architecture](blocks.png)
