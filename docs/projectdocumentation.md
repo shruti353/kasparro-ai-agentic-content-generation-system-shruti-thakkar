@@ -37,3 +37,19 @@ The system consists of 5 agents that parse data, generate questions, assemble co
 
 ## 5. Optional Diagrams
 (You may add sequence or flow diagrams if needed.)
+Below are the PNG diagrams representing the system architecture, agent orchestration, logic blocks, and full pipeline.
+
+### 5.1 System Architecture
+![System Architecture](architecture.png)
+
+### 5.2 Orchestration Flow
+![System Architecture](orchestration.png)
+
+### 5.3 Single-Responsibility Agent View
+![System Architecture](single_responsibility)
+
+### 5.4 Logic Block Interaction Diagram
+![System Architecture](blocks.png)
+
+### 5.5 End-to-End Automation Pipeline
+![System Architecture](pipeline.png)
