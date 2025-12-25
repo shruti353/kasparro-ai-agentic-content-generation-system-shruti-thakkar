@@ -35,8 +35,8 @@ The system consists of 5 agents that parse data, generate questions, assemble co
 - Product page template  
 - Comparison template  
 
-## 5. Optional Diagrams
-(You may add sequence or flow diagrams if needed.)
+## 5. System Diagrams & Visualizations
+
 Below are the PNG diagrams representing the system architecture, agent orchestration, logic blocks, and full pipeline.
 
 ### 5.1 System Architecture
